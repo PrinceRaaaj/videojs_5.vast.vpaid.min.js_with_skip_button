@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+   <Ad id="812030">
+      <InLine>
+         <AdSystem>FT</AdSystem>
+         <AdTitle>Flashtalking mobile vast template 2.0</AdTitle>
+         <Description>2019-07-22 22:04:13</Description>
+         <Impression id="ft_vast_i"><![CDATA[http://servedby.flashtalking.com/imp/1/31714;812030;201;gif;DailyMail;640x360VASTHTML5/?ft_creative=377314&ft_configuration=0&cachebuster=1612796496]]></Impression>
+         <Impression id="3rdparty" />
+         <Impression id="3rdparty" />
+         <Impression id="3rdparty" />
+         <Impression id="3rdparty" />
+         <Impression id="3rdparty" />
+         <Impression id="3rdparty" />
+         <Creatives>
+            <Creative sequence="1">
+               <Linear skipoffset="00:00:05">
+                  <Duration>00:00:15</Duration>
+                  <TrackingEvents>
+                     <Tracking event="start"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-0-13-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-0-15-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-0-14-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-0-16-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-0-17-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-812030;377314;0-338-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-812030;377314;0-38-0-50600F27903D86-1612796496]]></Tracking>
+                     <Tracking event="fullscreen"><![CDATA[https://stat.flashtalking.com/reportV3/ft.stat?34923237-0-313-0-50600F27903D86-1612796496]]></Tracking>
+                  </TrackingEvents>
+                  <VideoClicks>
+                     <ClickThrough><![CDATA[http://www.google.co.uk]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="524" width="640" height="360"><![CDATA[https://cdn.flashtalking.com/17601/30988_26752_WacoClub_640x360_384kbps.mp4]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+            <Creative sequence="1">
+               <CompanionAds />
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
